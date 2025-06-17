@@ -89,3 +89,9 @@
 
 With these formatting steps, this Excel sheet will not only be clean and error-free, but also professional and easy to read.
 
+# Raw Data
+![image](https://github.com/user-attachments/assets/55bbcbec-4115-4cec-b5e9-ed06777e8b61)
+![image](https://github.com/user-attachments/assets/55bbcbec-4115-4cec-b5e9-ed06777e8b61)
+
+
+
