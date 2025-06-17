@@ -62,3 +62,30 @@
 - Formula:  
   ```excel
   =IFERROR(<original formula>, "NA")
+
+---
+
+## 🧾 10. Final Touches: Make It Presentable
+
+- **Remove Gridlines**:
+  - Go to the **View** tab → Uncheck the **Gridlines** option.
+
+- **Highlight Headers**:
+  - Select the header row → Use **Fill Color** to highlight (e.g., light gray or blue).
+  - Apply **bold text** (`Ctrl + B`) for emphasis.
+
+- **Apply a Table Format**:
+  - Click inside the dataset → Press `Ctrl + A` to select all.
+  - Go to the **Home** tab → Click **Format as Table** → Choose a style.
+  - Ensure “My table has headers” is checked.
+
+- **Adjust Alignment & Wrap Text**:
+  - Select all → Use **Middle Align**, **Center Text**, and **Wrap Text** options in the Home tab.
+
+- **Add Borders (Optional)**:
+  - Select table → Go to **Borders** dropdown → Choose **All Borders** for a clean finish.
+
+---
+
+With these formatting steps, this Excel sheet will not only be clean and error-free, but also professional and easy to read.
+
