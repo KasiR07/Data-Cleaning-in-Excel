@@ -91,7 +91,10 @@ With these formatting steps, this Excel sheet will not only be clean and error-f
 
 # Raw Data
 ![image](https://github.com/user-attachments/assets/55bbcbec-4115-4cec-b5e9-ed06777e8b61)
-![image](https://github.com/user-attachments/assets/55bbcbec-4115-4cec-b5e9-ed06777e8b61)
+
+# Cleaned Data
+![image](https://github.com/user-attachments/assets/7d637003-2d78-4c81-bdc3-54e4ba459fe2)
+
 
 
 
